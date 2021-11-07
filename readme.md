@@ -1,5 +1,5 @@
 # This is git tutorial! 
-- git init 
+- git init 34
 - git add
 - git commit  
 - git pull 
